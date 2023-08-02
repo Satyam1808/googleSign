@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183539161323",
+    "project_id": "sign-dfa64",
+    "storage_bucket": "sign-dfa64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183539161323:android:d598a6a8935a9b52d506ae",
+        "android_client_info": {
+          "package_name": "com.example.googlesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183539161323-1brhbn5qbirioi99r2q4b4o8i2gub7dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0qG5HwO_WVeGPWDITHWwc2kqoLfTD0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183539161323-1brhbn5qbirioi99r2q4b4o8i2gub7dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
